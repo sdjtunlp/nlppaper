@@ -4,4 +4,8 @@
 
 - Aspect sentiment analysis with heterogeneous graph neural networks (2022, Information Processing & Management)
 
-- Aspect-specific Context Modeling for Aspect-based Sentiment Analysis (2022, Neurocomputing)
+- Span-based dual-decoder framework for aspect sentiment triplet extraction (2022, Neurocomputing)
+
+- Double embedding and bidirectional sentiment dependence detector for aspect sentiment triplet extraction (2022, Knowledge-Based Systems)
+
+- Dependency graph enhanced interactive attention network for aspect sentiment triplet extraction (2022, Neurocomputing)
