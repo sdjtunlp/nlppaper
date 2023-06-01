@@ -9,3 +9,5 @@
 - Double embedding and bidirectional sentiment dependence detector for aspect sentiment triplet extraction (2022, Knowledge-Based Systems)
 
 - Dependency graph enhanced interactive attention network for aspect sentiment triplet extraction (2022, Neurocomputing)
+
+- Knowledge-guided multi-granularity GCN for ABSA (2023, Information Processing & Management)
